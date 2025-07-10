@@ -1712,6 +1712,6 @@ def main():
 
             )
 
-        demo.launch(shae=True)
+        demo.launch(share=True)
 if __name__ == "__main__":
     main()
